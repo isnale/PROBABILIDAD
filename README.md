@@ -1,2 +1,2 @@
-# Probabilidad-
+# PROBABILIDAD
 Programas de la clase de probabilidad y estadística 
